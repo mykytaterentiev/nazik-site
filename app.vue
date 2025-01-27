@@ -15,8 +15,7 @@
 export default {
   methods: {
     confirmAge() {
-      // Redirect to the desired page or handle logic
-      this.$router.push('/home'); // Replace '/home' with your target route
+      window.location.href = 'https://datingforyour1.site/slinckpartnersnew/?flow=26549&utm_source=SID&utm_content=TID';
     },
   },
 };
