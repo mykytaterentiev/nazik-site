@@ -15,7 +15,7 @@
 export default {
   methods: {
     confirmAge() {
-      window.location.href = 'https://datingforyour1.site/slinckpartnersnew/?flow=26549&utm_source=SID&utm_content=TID';
+      window.location.href = 'https://t.andpi.link/361766/6519?bo=2753,2754,2755,2756&popUnder=true&aff_sub5=SF_006OG000004lmDN';
     },
   },
 };
